@@ -37,7 +37,7 @@ function email($address, $name="") {
 
       <h1 style="text-align: center; font-size: 1.8em; color: #FF0000;">Warning! Warning! Warning!</h1>
 
-      <em style="color: pink; text-shadow: -1px -1px 0 #666, 1px -1px 0 #666, -1px 1px 0 #666, 1px 1px 0 #666;">"Gavin McQuade my bitch. He is a little pussyman with no dick and no balls. He will take your money and you won't get your equipment. He is a common thief!"</em><br> <br>
+      <em style="color: pink; text-shadow: -1px -1px 0 #666, 1px -1px 0 #666, -1px 1px 0 #666, 1px 1px 0 #666;">"Gavin McQuade is my bitch. He is a little pussyman with no dick and no balls. He will take your money and you won't get your equipment. He is a common thief!"</em><br> <br>
 
       Please be advised that the company Multiscore Inc will steal from you!<br>
       <br>
